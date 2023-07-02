@@ -1,0 +1,7 @@
+Submit Predictions to Competitions at Kaggle
+link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+
+RESULT
+my score: 0.13093
+my position at leaderboard: 1094 out of 4510
