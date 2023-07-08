@@ -1,5 +1,5 @@
 NEW VERSION ||
-we add new feature (Handling Outliers and some explains)
+we add new feature (Handling Outliers and some explains) on [Handling Outliers.ipynb]
 1- Handling Outliers With Z-score
 2- Handling Outliers With IQR [InterQuartile Range]
 
